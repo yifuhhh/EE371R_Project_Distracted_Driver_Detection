@@ -1,6 +1,5 @@
 import os
 import pandas as pd
-import numpy as np
 import shutil
 
 dir = "/home/yifuhhh/PycharmProjects/Datasets/distracted-driver-detection/"
